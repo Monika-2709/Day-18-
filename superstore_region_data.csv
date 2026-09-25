@@ -1,0 +1,801 @@
+Row_ID,Order_ID,Region,Category,City,Sales,Discount,Profit
+1,ORD-10001,Central,Furniture,New York,95.81,0.3,1.02
+2,ORD-10002,West,Furniture,Houston,219.65,0.4,8.33
+3,ORD-10003,South,Office Supplies,New York,206.72,0.3,3.16
+4,ORD-10004,East,Office Supplies,Houston,107.83,0.4,8.83
+5,ORD-10005,West,Office Supplies,Los Angeles,400.85,0.0,60.06
+6,ORD-10006,East,Office Supplies,Houston,177.38,0.2,20.68
+7,ORD-10007,West,Office Supplies,Seattle,146.24,0.2,27.21
+8,ORD-10008,West,Office Supplies,Phoenix,151.61,0.1,20.27
+9,ORD-10009,South,Technology,Los Angeles,210.65,0.0,29.62
+10,ORD-10010,East,Technology,Houston,63.0,0.3,9.21
+11,ORD-10011,West,Office Supplies,Phoenix,95.86,0.4,10.87
+12,ORD-10012,Central,Office Supplies,Atlanta,155.79,0.1,7.95
+13,ORD-10013,Central,Technology,New York,93.63,0.1,13.56
+14,ORD-10014,East,Office Supplies,Chicago,67.55,0.4,1.59
+15,ORD-10015,South,Office Supplies,Houston,70.34,0.3,4.32
+16,ORD-10016,East,Furniture,Houston,172.91,0.0,21.86
+17,ORD-10017,West,Technology,Denver,77.49,0.3,5.57
+18,ORD-10018,West,Office Supplies,New York,68.16,0.3,4.52
+19,ORD-10019,East,Office Supplies,Denver,40.26,0.3,3.9
+20,ORD-10020,Central,Technology,Denver,59.91,0.3,4.06
+21,ORD-10021,East,Office Supplies,Denver,128.37,0.3,5.69
+22,ORD-10022,East,Office Supplies,Chicago,73.25,0.2,8.35
+23,ORD-10023,Central,Furniture,Denver,147.55,0.0,17.23
+24,ORD-10024,West,Technology,New York,166.2,0.2,28.93
+25,ORD-10025,South,Office Supplies,Chicago,104.38,0.1,15.85
+26,ORD-10026,East,Furniture,New York,199.33,0.1,20.25
+27,ORD-10027,South,Furniture,Chicago,212.27,0.1,22.36
+28,ORD-10028,East,Furniture,Phoenix,60.84,0.2,4.39
+29,ORD-10029,South,Office Supplies,Seattle,172.98,0.1,20.89
+30,ORD-10030,West,Office Supplies,New York,75.19,0.1,8.04
+31,ORD-10031,South,Office Supplies,Los Angeles,389.79,0.0,65.29
+32,ORD-10032,West,Technology,Chicago,134.89,0.2,15.72
+33,ORD-10033,East,Technology,New York,169.63,0.1,25.05
+34,ORD-10034,East,Furniture,Seattle,103.48,0.1,12.46
+35,ORD-10035,West,Office Supplies,Phoenix,200.8,0.2,27.75
+36,ORD-10036,West,Office Supplies,Chicago,69.55,0.3,7.39
+37,ORD-10037,South,Technology,New York,102.98,0.0,14.21
+38,ORD-10038,West,Technology,New York,50.79,0.1,8.29
+39,ORD-10039,West,Furniture,New York,70.21,0.2,3.37
+40,ORD-10040,East,Furniture,Chicago,118.24,0.4,-1.71
+41,ORD-10041,Central,Furniture,Denver,63.96,0.3,0.64
+42,ORD-10042,East,Furniture,Chicago,104.42,0.1,17.24
+43,ORD-10043,West,Office Supplies,New York,174.77,0.0,33.59
+44,ORD-10044,East,Office Supplies,Phoenix,145.64,0.0,24.9
+45,ORD-10045,Central,Office Supplies,New York,77.14,0.2,2.61
+46,ORD-10046,South,Furniture,Los Angeles,57.16,0.1,9.15
+47,ORD-10047,West,Furniture,Denver,104.64,0.4,6.62
+48,ORD-10048,South,Office Supplies,Houston,87.91,0.0,8.41
+49,ORD-10049,Central,Office Supplies,Seattle,152.44,0.2,3.54
+50,ORD-10050,West,Technology,New York,199.86,0.0,22.61
+51,ORD-10051,South,Technology,Atlanta,73.39,0.1,10.09
+52,ORD-10052,East,Office Supplies,Chicago,46.85,0.3,2.66
+53,ORD-10053,East,Office Supplies,Chicago,30.98,0.3,1.86
+54,ORD-10054,East,Office Supplies,New York,53.83,0.1,7.01
+55,ORD-10055,Central,Office Supplies,Seattle,112.59,0.0,16.92
+56,ORD-10056,Central,Office Supplies,Phoenix,246.92,0.2,7.6
+57,ORD-10057,West,Technology,Seattle,45.05,0.3,3.95
+58,ORD-10058,West,Furniture,Los Angeles,181.64,0.1,28.28
+59,ORD-10059,South,Furniture,Seattle,73.98,0.0,7.26
+60,ORD-10060,South,Office Supplies,Atlanta,78.55,0.2,7.29
+61,ORD-10061,East,Furniture,Los Angeles,270.79,0.1,24.3
+62,ORD-10062,South,Technology,Chicago,60.07,0.1,9.61
+63,ORD-10063,East,Office Supplies,Atlanta,122.83,0.0,16.51
+64,ORD-10064,East,Technology,Phoenix,109.57,0.1,19.12
+65,ORD-10065,East,Office Supplies,Chicago,136.67,0.2,17.08
+66,ORD-10066,South,Office Supplies,Denver,63.26,0.0,5.62
+67,ORD-10067,Central,Technology,Phoenix,39.49,0.2,3.47
+68,ORD-10068,East,Furniture,Seattle,59.19,0.0,7.72
+69,ORD-10069,West,Technology,Phoenix,100.84,0.2,11.61
+70,ORD-10070,Central,Office Supplies,Chicago,74.39,0.2,5.39
+71,ORD-10071,West,Furniture,Atlanta,103.91,0.3,3.15
+72,ORD-10072,West,Technology,Phoenix,119.19,0.3,10.11
+73,ORD-10073,South,Office Supplies,New York,34.31,0.3,1.49
+74,ORD-10074,West,Furniture,New York,64.89,0.3,4.9
+75,ORD-10075,East,Office Supplies,Los Angeles,130.86,0.2,18.42
+76,ORD-10076,East,Office Supplies,Seattle,98.84,0.2,5.47
+77,ORD-10077,West,Furniture,Los Angeles,31.2,0.3,3.5
+78,ORD-10078,Central,Office Supplies,Phoenix,82.58,0.2,9.76
+79,ORD-10079,West,Office Supplies,Atlanta,136.1,0.1,11.95
+80,ORD-10080,East,Technology,Houston,274.67,0.1,56.49
+81,ORD-10081,South,Technology,Denver,97.69,0.2,16.54
+82,ORD-10082,West,Furniture,Phoenix,361.04,0.1,52.86
+83,ORD-10083,East,Office Supplies,Phoenix,139.57,0.0,23.59
+84,ORD-10084,East,Office Supplies,Chicago,178.9,0.0,20.24
+85,ORD-10085,East,Technology,New York,107.48,0.2,13.15
+86,ORD-10086,East,Technology,Denver,44.32,0.2,8.04
+87,ORD-10087,East,Office Supplies,Atlanta,93.14,0.1,10.31
+88,ORD-10088,East,Technology,Denver,40.53,0.0,7.67
+89,ORD-10089,East,Office Supplies,New York,65.11,0.1,8.87
+90,ORD-10090,South,Office Supplies,Houston,78.57,0.3,1.87
+91,ORD-10091,West,Furniture,Los Angeles,205.23,0.0,23.53
+92,ORD-10092,West,Furniture,Phoenix,253.39,0.3,5.48
+93,ORD-10093,West,Office Supplies,Denver,91.91,0.4,11.84
+94,ORD-10094,Central,Office Supplies,New York,44.88,0.3,3.06
+95,ORD-10095,West,Office Supplies,Chicago,201.04,0.3,9.14
+96,ORD-10096,Central,Furniture,Phoenix,26.43,0.0,3.4
+97,ORD-10097,Central,Office Supplies,Seattle,72.99,0.3,3.17
+98,ORD-10098,West,Office Supplies,Chicago,132.26,0.2,11.86
+99,ORD-10099,East,Office Supplies,Seattle,139.56,0.0,18.08
+100,ORD-10100,West,Furniture,New York,61.07,0.3,3.74
+101,ORD-10101,East,Furniture,Phoenix,228.3,0.2,25.06
+102,ORD-10102,Central,Office Supplies,Los Angeles,73.98,0.3,1.2
+103,ORD-10103,West,Technology,Houston,59.68,0.1,11.34
+104,ORD-10104,West,Furniture,New York,119.6,0.1,13.79
+105,ORD-10105,West,Office Supplies,Los Angeles,87.92,0.0,12.75
+106,ORD-10106,Central,Office Supplies,Seattle,135.06,0.0,10.37
+107,ORD-10107,Central,Office Supplies,Denver,96.99,0.4,3.28
+108,ORD-10108,East,Technology,Houston,95.17,0.1,12.64
+109,ORD-10109,South,Furniture,Atlanta,169.61,0.2,11.7
+110,ORD-10110,West,Technology,Atlanta,82.88,0.0,14.01
+111,ORD-10111,East,Office Supplies,Denver,65.67,0.3,1.68
+112,ORD-10112,Central,Office Supplies,Phoenix,68.0,0.2,3.72
+113,ORD-10113,Central,Office Supplies,New York,264.14,0.1,37.67
+114,ORD-10114,East,Office Supplies,Los Angeles,289.84,0.4,6.44
+115,ORD-10115,West,Furniture,Denver,83.14,0.1,9.92
+116,ORD-10116,West,Technology,Houston,116.8,0.1,20.31
+117,ORD-10117,South,Office Supplies,Seattle,201.2,0.1,26.22
+118,ORD-10118,Central,Office Supplies,Atlanta,71.72,0.3,0.91
+119,ORD-10119,West,Office Supplies,Chicago,128.86,0.4,4.79
+120,ORD-10120,Central,Technology,Phoenix,86.93,0.4,2.47
+121,ORD-10121,East,Technology,Los Angeles,228.66,0.1,32.7
+122,ORD-10122,South,Furniture,Seattle,162.3,0.2,0.23
+123,ORD-10123,East,Office Supplies,Seattle,39.53,0.3,1.24
+124,ORD-10124,East,Office Supplies,Denver,198.0,0.1,24.1
+125,ORD-10125,East,Office Supplies,New York,189.13,0.1,25.56
+126,ORD-10126,South,Furniture,Atlanta,134.57,0.4,1.14
+127,ORD-10127,Central,Office Supplies,Chicago,40.18,0.0,3.88
+128,ORD-10128,East,Office Supplies,Phoenix,100.62,0.1,21.47
+129,ORD-10129,East,Furniture,New York,88.17,0.3,10.12
+130,ORD-10130,East,Technology,Atlanta,201.78,0.4,22.05
+131,ORD-10131,South,Furniture,Los Angeles,512.1,0.0,50.79
+132,ORD-10132,South,Furniture,Atlanta,101.21,0.2,8.15
+133,ORD-10133,West,Technology,Phoenix,97.66,0.3,13.11
+134,ORD-10134,South,Office Supplies,New York,145.55,0.2,7.76
+135,ORD-10135,Central,Technology,Phoenix,76.85,0.4,4.8
+136,ORD-10136,East,Technology,New York,161.78,0.1,27.25
+137,ORD-10137,East,Technology,Seattle,108.4,0.3,14.28
+138,ORD-10138,East,Furniture,Seattle,70.66,0.0,7.67
+139,ORD-10139,West,Technology,New York,57.41,0.2,7.75
+140,ORD-10140,Central,Furniture,Chicago,183.88,0.1,9.97
+141,ORD-10141,South,Technology,Atlanta,70.6,0.0,7.0
+142,ORD-10142,West,Office Supplies,Phoenix,191.89,0.1,40.99
+143,ORD-10143,West,Furniture,Denver,163.48,0.2,16.06
+144,ORD-10144,East,Technology,Atlanta,280.58,0.2,34.71
+145,ORD-10145,South,Furniture,Chicago,51.4,0.2,0.76
+146,ORD-10146,South,Furniture,Houston,39.81,0.0,3.03
+147,ORD-10147,East,Technology,Denver,82.3,0.1,10.33
+148,ORD-10148,Central,Technology,Chicago,158.64,0.0,30.63
+149,ORD-10149,Central,Office Supplies,Denver,364.19,0.3,16.49
+150,ORD-10150,South,Office Supplies,Houston,58.94,0.2,3.98
+151,ORD-10151,East,Furniture,Denver,59.53,0.0,9.68
+152,ORD-10152,East,Technology,Phoenix,99.32,0.0,13.07
+153,ORD-10153,South,Technology,Houston,151.0,0.0,19.01
+154,ORD-10154,South,Technology,Los Angeles,127.37,0.3,5.48
+155,ORD-10155,West,Office Supplies,Phoenix,20.78,0.0,4.43
+156,ORD-10156,Central,Technology,Chicago,131.24,0.1,13.19
+157,ORD-10157,South,Office Supplies,Los Angeles,37.57,0.2,4.65
+158,ORD-10158,Central,Technology,Atlanta,208.4,0.3,5.78
+159,ORD-10159,East,Furniture,Atlanta,183.29,0.1,4.62
+160,ORD-10160,East,Furniture,Houston,247.73,0.1,25.84
+161,ORD-10161,Central,Technology,Seattle,145.36,0.0,12.71
+162,ORD-10162,Central,Technology,Seattle,37.18,0.3,1.07
+163,ORD-10163,West,Office Supplies,Seattle,26.88,0.0,4.02
+164,ORD-10164,East,Furniture,Denver,79.3,0.0,11.05
+165,ORD-10165,Central,Furniture,Denver,48.04,0.4,-0.75
+166,ORD-10166,West,Furniture,Phoenix,44.13,0.2,3.56
+167,ORD-10167,East,Office Supplies,Denver,271.54,0.2,46.92
+168,ORD-10168,West,Furniture,Seattle,169.53,0.1,20.11
+169,ORD-10169,Central,Furniture,Los Angeles,348.03,0.4,8.59
+170,ORD-10170,Central,Technology,Los Angeles,96.5,0.0,12.72
+171,ORD-10171,Central,Office Supplies,Denver,73.06,0.1,7.91
+172,ORD-10172,East,Technology,Los Angeles,220.49,0.1,30.89
+173,ORD-10173,East,Technology,Chicago,120.23,0.1,14.66
+174,ORD-10174,Central,Furniture,Los Angeles,180.5,0.1,18.52
+175,ORD-10175,East,Office Supplies,Los Angeles,95.07,0.3,7.66
+176,ORD-10176,Central,Office Supplies,Chicago,268.54,0.3,17.37
+177,ORD-10177,South,Office Supplies,Chicago,293.72,0.1,36.55
+178,ORD-10178,Central,Furniture,Houston,112.7,0.3,2.92
+179,ORD-10179,Central,Technology,Denver,62.31,0.0,13.35
+180,ORD-10180,Central,Technology,Denver,72.7,0.0,8.41
+181,ORD-10181,East,Furniture,Denver,108.03,0.1,11.43
+182,ORD-10182,Central,Furniture,Los Angeles,130.21,0.4,-7.75
+183,ORD-10183,West,Office Supplies,Seattle,99.17,0.0,17.39
+184,ORD-10184,East,Technology,Phoenix,388.94,0.1,46.71
+185,ORD-10185,Central,Office Supplies,Houston,105.41,0.2,9.39
+186,ORD-10186,West,Technology,Denver,103.48,0.1,20.88
+187,ORD-10187,South,Office Supplies,New York,102.95,0.2,18.49
+188,ORD-10188,South,Office Supplies,Los Angeles,377.77,0.0,41.27
+189,ORD-10189,South,Office Supplies,Seattle,48.72,0.1,4.45
+190,ORD-10190,South,Furniture,Atlanta,71.13,0.0,3.53
+191,ORD-10191,Central,Technology,Atlanta,202.04,0.4,17.95
+192,ORD-10192,South,Technology,Seattle,103.62,0.1,17.29
+193,ORD-10193,West,Office Supplies,Chicago,67.65,0.3,6.87
+194,ORD-10194,Central,Technology,Chicago,62.11,0.2,5.48
+195,ORD-10195,West,Furniture,Phoenix,65.42,0.0,5.03
+196,ORD-10196,Central,Office Supplies,Houston,97.37,0.0,10.57
+197,ORD-10197,West,Office Supplies,Los Angeles,78.72,0.0,17.96
+198,ORD-10198,East,Furniture,Denver,85.11,0.2,6.94
+199,ORD-10199,South,Technology,Phoenix,406.36,0.0,62.45
+200,ORD-10200,Central,Office Supplies,New York,104.72,0.2,5.46
+201,ORD-10201,Central,Technology,Phoenix,97.03,0.2,4.48
+202,ORD-10202,East,Furniture,New York,123.28,0.1,16.45
+203,ORD-10203,South,Furniture,Seattle,267.83,0.1,14.66
+204,ORD-10204,South,Office Supplies,Phoenix,132.34,0.2,9.46
+205,ORD-10205,East,Furniture,Phoenix,259.56,0.0,23.06
+206,ORD-10206,East,Furniture,Denver,29.12,0.2,0.19
+207,ORD-10207,East,Office Supplies,Phoenix,118.33,0.0,19.67
+208,ORD-10208,South,Office Supplies,Atlanta,77.63,0.4,1.44
+209,ORD-10209,South,Office Supplies,New York,42.87,0.0,5.94
+210,ORD-10210,West,Office Supplies,Chicago,107.72,0.0,14.57
+211,ORD-10211,East,Technology,Los Angeles,61.5,0.0,10.78
+212,ORD-10212,Central,Office Supplies,Phoenix,38.55,0.0,6.31
+213,ORD-10213,Central,Office Supplies,Seattle,162.94,0.1,14.24
+214,ORD-10214,East,Office Supplies,Phoenix,164.65,0.1,24.68
+215,ORD-10215,South,Technology,Houston,121.92,0.1,9.97
+216,ORD-10216,East,Technology,New York,61.27,0.3,7.46
+217,ORD-10217,West,Office Supplies,Los Angeles,291.06,0.3,25.05
+218,ORD-10218,West,Office Supplies,Phoenix,103.17,0.1,13.68
+219,ORD-10219,East,Office Supplies,Phoenix,65.58,0.1,8.74
+220,ORD-10220,South,Office Supplies,Los Angeles,64.64,0.1,3.86
+221,ORD-10221,East,Technology,Denver,41.79,0.1,7.34
+222,ORD-10222,South,Technology,Denver,80.46,0.0,15.19
+223,ORD-10223,West,Technology,Seattle,137.48,0.0,32.24
+224,ORD-10224,West,Furniture,Atlanta,63.79,0.4,1.92
+225,ORD-10225,East,Office Supplies,Los Angeles,77.4,0.1,11.61
+226,ORD-10226,Central,Office Supplies,Houston,64.52,0.1,2.34
+227,ORD-10227,East,Furniture,Seattle,170.24,0.2,7.09
+228,ORD-10228,South,Office Supplies,Chicago,15.46,0.0,1.84
+229,ORD-10229,West,Technology,Atlanta,77.72,0.1,11.81
+230,ORD-10230,West,Technology,Chicago,59.8,0.0,13.27
+231,ORD-10231,Central,Office Supplies,Houston,70.95,0.0,11.02
+232,ORD-10232,Central,Office Supplies,Los Angeles,47.55,0.0,3.14
+233,ORD-10233,East,Office Supplies,New York,173.37,0.1,17.19
+234,ORD-10234,Central,Office Supplies,Seattle,44.04,0.0,4.49
+235,ORD-10235,East,Office Supplies,New York,255.6,0.0,30.95
+236,ORD-10236,South,Technology,Chicago,127.16,0.1,21.5
+237,ORD-10237,South,Office Supplies,New York,56.12,0.0,8.46
+238,ORD-10238,Central,Furniture,Los Angeles,97.96,0.3,-3.94
+239,ORD-10239,Central,Furniture,Chicago,131.76,0.1,3.22
+240,ORD-10240,East,Office Supplies,Atlanta,124.67,0.1,20.79
+241,ORD-10241,West,Furniture,Seattle,110.88,0.2,17.1
+242,ORD-10242,East,Furniture,Chicago,125.07,0.0,20.45
+243,ORD-10243,South,Technology,Phoenix,30.39,0.0,4.71
+244,ORD-10244,South,Office Supplies,Atlanta,99.67,0.2,3.26
+245,ORD-10245,West,Technology,Atlanta,36.61,0.3,4.02
+246,ORD-10246,Central,Technology,Houston,174.84,0.1,8.05
+247,ORD-10247,Central,Technology,Seattle,178.89,0.1,23.75
+248,ORD-10248,East,Furniture,New York,123.56,0.2,10.58
+249,ORD-10249,East,Office Supplies,Seattle,96.05,0.0,14.44
+250,ORD-10250,South,Technology,Los Angeles,82.13,0.2,6.66
+251,ORD-10251,West,Technology,Chicago,34.29,0.2,6.86
+252,ORD-10252,South,Office Supplies,New York,128.87,0.0,20.52
+253,ORD-10253,East,Office Supplies,Atlanta,29.84,0.3,2.42
+254,ORD-10254,West,Office Supplies,Atlanta,65.36,0.2,7.53
+255,ORD-10255,East,Office Supplies,Los Angeles,241.84,0.3,13.09
+256,ORD-10256,East,Office Supplies,New York,237.07,0.2,5.12
+257,ORD-10257,South,Technology,Denver,113.41,0.0,11.58
+258,ORD-10258,South,Technology,Denver,195.13,0.3,12.92
+259,ORD-10259,South,Office Supplies,New York,88.18,0.1,11.82
+260,ORD-10260,East,Office Supplies,Denver,73.22,0.4,0.03
+261,ORD-10261,Central,Furniture,Seattle,158.7,0.2,11.91
+262,ORD-10262,Central,Furniture,Phoenix,69.2,0.1,3.58
+263,ORD-10263,Central,Technology,Chicago,81.5,0.2,6.94
+264,ORD-10264,Central,Furniture,Los Angeles,105.55,0.2,-0.23
+265,ORD-10265,East,Technology,Denver,174.04,0.0,38.04
+266,ORD-10266,Central,Office Supplies,New York,27.29,0.3,1.98
+267,ORD-10267,Central,Technology,New York,222.21,0.1,29.8
+268,ORD-10268,Central,Office Supplies,Seattle,50.55,0.0,1.82
+269,ORD-10269,West,Office Supplies,Los Angeles,117.56,0.0,15.96
+270,ORD-10270,South,Furniture,Phoenix,181.69,0.0,21.37
+271,ORD-10271,West,Technology,New York,64.15,0.2,9.61
+272,ORD-10272,South,Technology,Los Angeles,198.27,0.0,33.37
+273,ORD-10273,West,Office Supplies,Los Angeles,64.94,0.2,7.63
+274,ORD-10274,East,Office Supplies,Chicago,97.85,0.1,8.18
+275,ORD-10275,West,Technology,Los Angeles,25.57,0.2,3.83
+276,ORD-10276,South,Office Supplies,Houston,65.72,0.3,0.31
+277,ORD-10277,East,Technology,Los Angeles,350.12,0.2,57.79
+278,ORD-10278,West,Office Supplies,Denver,140.93,0.3,10.9
+279,ORD-10279,West,Office Supplies,Phoenix,166.95,0.2,22.82
+280,ORD-10280,Central,Office Supplies,Chicago,101.74,0.1,12.34
+281,ORD-10281,West,Office Supplies,Denver,80.45,0.3,5.61
+282,ORD-10282,East,Technology,Denver,56.89,0.3,4.48
+283,ORD-10283,Central,Furniture,Atlanta,143.7,0.1,12.22
+284,ORD-10284,South,Furniture,Seattle,67.41,0.1,1.74
+285,ORD-10285,South,Office Supplies,New York,82.53,0.0,8.3
+286,ORD-10286,East,Furniture,Seattle,57.15,0.0,10.07
+287,ORD-10287,West,Office Supplies,Seattle,255.17,0.3,43.54
+288,ORD-10288,Central,Technology,Denver,148.7,0.3,4.95
+289,ORD-10289,West,Furniture,New York,149.01,0.3,10.49
+290,ORD-10290,South,Furniture,Atlanta,21.61,0.0,0.13
+291,ORD-10291,Central,Furniture,Los Angeles,113.56,0.1,1.75
+292,ORD-10292,Central,Office Supplies,Seattle,108.71,0.3,-0.73
+293,ORD-10293,Central,Office Supplies,Chicago,89.0,0.4,2.68
+294,ORD-10294,East,Office Supplies,Los Angeles,304.12,0.2,30.76
+295,ORD-10295,Central,Furniture,Chicago,28.05,0.2,-0.71
+296,ORD-10296,South,Office Supplies,Chicago,70.81,0.0,10.38
+297,ORD-10297,West,Furniture,Denver,88.58,0.1,7.03
+298,ORD-10298,East,Office Supplies,Houston,267.56,0.1,31.27
+299,ORD-10299,East,Office Supplies,Los Angeles,404.71,0.0,94.96
+300,ORD-10300,South,Furniture,Seattle,68.94,0.2,4.4
+301,ORD-10301,East,Office Supplies,Seattle,60.56,0.3,4.85
+302,ORD-10302,East,Furniture,Phoenix,422.27,0.1,15.06
+303,ORD-10303,East,Office Supplies,Phoenix,57.92,0.2,2.69
+304,ORD-10304,South,Office Supplies,Seattle,141.08,0.1,13.01
+305,ORD-10305,South,Furniture,Houston,127.96,0.2,6.57
+306,ORD-10306,Central,Furniture,Chicago,99.54,0.2,-0.14
+307,ORD-10307,Central,Furniture,Chicago,97.22,0.3,3.41
+308,ORD-10308,East,Furniture,Houston,83.55,0.3,7.6
+309,ORD-10309,South,Office Supplies,Chicago,56.91,0.1,6.17
+310,ORD-10310,Central,Office Supplies,Denver,163.58,0.1,15.17
+311,ORD-10311,West,Furniture,Atlanta,95.92,0.2,3.14
+312,ORD-10312,South,Furniture,Los Angeles,210.87,0.0,33.2
+313,ORD-10313,South,Furniture,Los Angeles,143.67,0.1,13.26
+314,ORD-10314,West,Office Supplies,Houston,97.56,0.0,20.25
+315,ORD-10315,Central,Technology,Chicago,62.33,0.2,6.12
+316,ORD-10316,South,Office Supplies,Los Angeles,43.22,0.2,3.47
+317,ORD-10317,East,Technology,Denver,204.41,0.2,25.66
+318,ORD-10318,East,Office Supplies,Phoenix,113.59,0.2,13.18
+319,ORD-10319,Central,Technology,Phoenix,50.46,0.2,3.68
+320,ORD-10320,South,Furniture,Chicago,79.4,0.2,7.56
+321,ORD-10321,East,Technology,Chicago,68.49,0.0,11.45
+322,ORD-10322,West,Technology,Denver,92.7,0.1,11.09
+323,ORD-10323,Central,Furniture,Houston,60.18,0.3,0.95
+324,ORD-10324,Central,Furniture,Chicago,238.95,0.3,-11.18
+325,ORD-10325,Central,Technology,Atlanta,27.05,0.2,1.78
+326,ORD-10326,Central,Office Supplies,Phoenix,73.21,0.1,7.45
+327,ORD-10327,Central,Furniture,Phoenix,73.46,0.0,4.48
+328,ORD-10328,West,Technology,Phoenix,95.86,0.0,15.76
+329,ORD-10329,West,Office Supplies,Houston,150.61,0.1,14.61
+330,ORD-10330,Central,Office Supplies,Los Angeles,127.22,0.3,6.21
+331,ORD-10331,South,Office Supplies,Los Angeles,96.38,0.1,13.22
+332,ORD-10332,West,Office Supplies,Houston,76.49,0.1,8.56
+333,ORD-10333,East,Office Supplies,New York,121.98,0.0,11.08
+334,ORD-10334,South,Office Supplies,Houston,167.0,0.3,15.34
+335,ORD-10335,West,Office Supplies,Los Angeles,201.9,0.0,33.25
+336,ORD-10336,Central,Furniture,Houston,93.58,0.3,1.32
+337,ORD-10337,West,Furniture,Phoenix,149.04,0.1,8.4
+338,ORD-10338,Central,Technology,Denver,14.09,0.1,1.93
+339,ORD-10339,Central,Office Supplies,Denver,99.89,0.3,2.17
+340,ORD-10340,West,Technology,Atlanta,51.79,0.0,8.75
+341,ORD-10341,West,Office Supplies,Phoenix,89.11,0.0,10.14
+342,ORD-10342,Central,Furniture,Phoenix,177.64,0.1,12.42
+343,ORD-10343,East,Furniture,Atlanta,124.69,0.2,4.53
+344,ORD-10344,Central,Technology,Seattle,316.55,0.3,17.37
+345,ORD-10345,East,Furniture,Denver,86.98,0.1,11.15
+346,ORD-10346,South,Office Supplies,Houston,81.21,0.1,4.91
+347,ORD-10347,East,Technology,Houston,108.98,0.1,15.19
+348,ORD-10348,West,Furniture,Phoenix,158.49,0.1,20.95
+349,ORD-10349,East,Technology,Los Angeles,213.25,0.1,49.72
+350,ORD-10350,South,Technology,Los Angeles,268.06,0.2,18.34
+351,ORD-10351,East,Technology,Denver,160.77,0.2,19.62
+352,ORD-10352,Central,Office Supplies,New York,92.94,0.3,2.39
+353,ORD-10353,Central,Office Supplies,Atlanta,64.15,0.2,5.05
+354,ORD-10354,West,Technology,New York,148.47,0.0,31.69
+355,ORD-10355,East,Office Supplies,New York,65.2,0.1,8.09
+356,ORD-10356,East,Office Supplies,Chicago,137.8,0.0,18.43
+357,ORD-10357,Central,Office Supplies,Los Angeles,399.87,0.3,-10.58
+358,ORD-10358,Central,Office Supplies,Houston,290.64,0.0,35.53
+359,ORD-10359,West,Furniture,Denver,226.76,0.3,15.03
+360,ORD-10360,Central,Office Supplies,Denver,105.06,0.2,12.61
+361,ORD-10361,East,Office Supplies,Phoenix,76.91,0.3,6.28
+362,ORD-10362,East,Furniture,Atlanta,32.95,0.3,1.73
+363,ORD-10363,Central,Furniture,Houston,28.63,0.3,1.83
+364,ORD-10364,Central,Technology,New York,160.57,0.2,15.99
+365,ORD-10365,East,Office Supplies,Phoenix,275.71,0.0,46.79
+366,ORD-10366,Central,Furniture,Atlanta,140.99,0.1,8.07
+367,ORD-10367,West,Furniture,Phoenix,107.95,0.1,1.08
+368,ORD-10368,South,Office Supplies,New York,101.86,0.0,8.55
+369,ORD-10369,West,Office Supplies,Los Angeles,156.64,0.0,26.79
+370,ORD-10370,West,Furniture,New York,16.64,0.0,2.67
+371,ORD-10371,South,Furniture,Los Angeles,94.41,0.2,6.31
+372,ORD-10372,East,Furniture,Houston,48.91,0.3,1.45
+373,ORD-10373,Central,Technology,Atlanta,96.2,0.2,8.99
+374,ORD-10374,West,Technology,Atlanta,29.1,0.2,3.92
+375,ORD-10375,East,Office Supplies,Phoenix,198.23,0.0,31.22
+376,ORD-10376,West,Technology,Houston,30.44,0.2,2.61
+377,ORD-10377,East,Office Supplies,Denver,331.43,0.3,27.22
+378,ORD-10378,South,Technology,Phoenix,70.39,0.4,7.29
+379,ORD-10379,South,Office Supplies,Atlanta,31.41,0.0,3.89
+380,ORD-10380,Central,Office Supplies,Seattle,143.05,0.2,14.76
+381,ORD-10381,West,Technology,Houston,136.02,0.0,28.99
+382,ORD-10382,Central,Office Supplies,Atlanta,64.0,0.0,10.09
+383,ORD-10383,East,Office Supplies,Houston,21.05,0.3,1.87
+384,ORD-10384,South,Furniture,Los Angeles,95.4,0.1,5.79
+385,ORD-10385,West,Technology,Seattle,25.58,0.0,5.3
+386,ORD-10386,South,Office Supplies,Denver,63.45,0.1,4.34
+387,ORD-10387,South,Office Supplies,Chicago,71.86,0.1,6.2
+388,ORD-10388,East,Office Supplies,Chicago,221.68,0.1,21.6
+389,ORD-10389,East,Office Supplies,Atlanta,143.61,0.0,21.85
+390,ORD-10390,South,Technology,Houston,372.22,0.0,72.9
+391,ORD-10391,South,Technology,Atlanta,133.7,0.1,14.46
+392,ORD-10392,West,Furniture,Los Angeles,116.32,0.0,10.1
+393,ORD-10393,South,Office Supplies,New York,260.65,0.2,42.76
+394,ORD-10394,West,Furniture,Phoenix,146.59,0.1,11.8
+395,ORD-10395,West,Office Supplies,New York,58.43,0.3,3.67
+396,ORD-10396,West,Office Supplies,New York,157.9,0.0,28.45
+397,ORD-10397,West,Office Supplies,Houston,276.12,0.0,46.49
+398,ORD-10398,East,Technology,Houston,73.12,0.0,13.4
+399,ORD-10399,East,Office Supplies,Atlanta,69.12,0.2,2.51
+400,ORD-10400,East,Technology,New York,93.96,0.3,8.82
+401,ORD-10401,West,Office Supplies,Atlanta,150.5,0.0,30.75
+402,ORD-10402,Central,Technology,Houston,124.95,0.3,7.01
+403,ORD-10403,West,Office Supplies,Atlanta,43.25,0.2,5.74
+404,ORD-10404,West,Office Supplies,Denver,181.73,0.3,16.32
+405,ORD-10405,South,Technology,Phoenix,51.53,0.3,5.61
+406,ORD-10406,West,Office Supplies,Denver,68.35,0.3,6.43
+407,ORD-10407,South,Technology,Phoenix,114.44,0.1,11.31
+408,ORD-10408,South,Office Supplies,New York,108.04,0.1,7.74
+409,ORD-10409,East,Technology,Chicago,202.28,0.0,34.44
+410,ORD-10410,East,Office Supplies,New York,65.75,0.1,8.43
+411,ORD-10411,West,Furniture,Houston,333.55,0.2,40.13
+412,ORD-10412,South,Office Supplies,Chicago,209.13,0.0,23.63
+413,ORD-10413,South,Technology,Atlanta,88.28,0.4,1.68
+414,ORD-10414,South,Technology,Atlanta,54.49,0.2,5.59
+415,ORD-10415,South,Office Supplies,Seattle,97.84,0.1,19.86
+416,ORD-10416,East,Office Supplies,Chicago,42.06,0.0,4.72
+417,ORD-10417,East,Technology,Houston,133.23,0.2,23.42
+418,ORD-10418,Central,Technology,Seattle,129.68,0.3,11.06
+419,ORD-10419,East,Technology,Phoenix,79.1,0.1,15.29
+420,ORD-10420,South,Technology,Los Angeles,584.01,0.0,110.39
+421,ORD-10421,East,Furniture,Houston,76.55,0.3,2.26
+422,ORD-10422,South,Furniture,Seattle,131.54,0.0,7.67
+423,ORD-10423,South,Technology,Chicago,172.04,0.2,15.55
+424,ORD-10424,East,Office Supplies,Los Angeles,179.8,0.1,32.93
+425,ORD-10425,East,Technology,Atlanta,61.66,0.3,11.27
+426,ORD-10426,East,Furniture,Los Angeles,484.27,0.3,6.85
+427,ORD-10427,East,Technology,New York,170.95,0.1,24.01
+428,ORD-10428,Central,Furniture,Atlanta,492.2,0.2,27.92
+429,ORD-10429,South,Office Supplies,Seattle,100.06,0.1,13.81
+430,ORD-10430,East,Office Supplies,Seattle,71.23,0.0,6.94
+431,ORD-10431,East,Technology,Chicago,132.34,0.2,22.18
+432,ORD-10432,West,Technology,New York,148.77,0.2,23.29
+433,ORD-10433,East,Technology,Phoenix,159.27,0.0,23.28
+434,ORD-10434,East,Technology,New York,434.96,0.0,63.2
+435,ORD-10435,South,Office Supplies,Atlanta,47.43,0.0,4.18
+436,ORD-10436,South,Furniture,Los Angeles,262.64,0.2,28.17
+437,ORD-10437,Central,Office Supplies,Chicago,221.94,0.4,9.6
+438,ORD-10438,East,Office Supplies,Seattle,78.82,0.1,13.63
+439,ORD-10439,Central,Furniture,New York,100.26,0.2,1.34
+440,ORD-10440,West,Office Supplies,Denver,104.07,0.0,18.31
+441,ORD-10441,Central,Office Supplies,Chicago,27.29,0.2,2.31
+442,ORD-10442,South,Furniture,Phoenix,142.1,0.0,4.79
+443,ORD-10443,Central,Office Supplies,Phoenix,176.61,0.0,9.99
+444,ORD-10444,Central,Office Supplies,Denver,104.84,0.0,7.57
+445,ORD-10445,East,Furniture,New York,541.89,0.0,63.6
+446,ORD-10446,South,Office Supplies,Phoenix,160.15,0.0,21.11
+447,ORD-10447,West,Office Supplies,Denver,103.23,0.3,2.43
+448,ORD-10448,South,Office Supplies,Atlanta,26.72,0.0,3.62
+449,ORD-10449,West,Technology,Phoenix,305.02,0.1,60.99
+450,ORD-10450,Central,Office Supplies,New York,132.26,0.0,11.26
+451,ORD-10451,South,Furniture,Phoenix,145.68,0.0,15.24
+452,ORD-10452,West,Technology,Atlanta,88.96,0.3,4.4
+453,ORD-10453,Central,Office Supplies,Denver,56.61,0.0,4.54
+454,ORD-10454,Central,Office Supplies,Chicago,218.87,0.1,14.49
+455,ORD-10455,Central,Furniture,Denver,16.64,0.0,1.5
+456,ORD-10456,East,Office Supplies,Seattle,55.82,0.2,4.05
+457,ORD-10457,East,Technology,Atlanta,233.23,0.2,38.65
+458,ORD-10458,East,Office Supplies,Houston,164.73,0.1,24.98
+459,ORD-10459,West,Technology,Chicago,80.16,0.2,11.08
+460,ORD-10460,West,Office Supplies,Denver,108.94,0.0,20.32
+461,ORD-10461,West,Office Supplies,New York,336.66,0.2,49.66
+462,ORD-10462,South,Technology,Los Angeles,36.44,0.0,6.3
+463,ORD-10463,South,Office Supplies,Chicago,56.59,0.2,5.44
+464,ORD-10464,Central,Furniture,New York,208.61,0.2,-0.66
+465,ORD-10465,South,Furniture,Houston,203.49,0.1,8.22
+466,ORD-10466,West,Technology,Denver,72.78,0.2,10.54
+467,ORD-10467,East,Technology,Phoenix,41.89,0.0,7.9
+468,ORD-10468,South,Office Supplies,Los Angeles,60.24,0.0,8.19
+469,ORD-10469,East,Technology,Los Angeles,281.19,0.1,39.33
+470,ORD-10470,West,Technology,Chicago,94.68,0.4,11.67
+471,ORD-10471,Central,Technology,Phoenix,110.97,0.4,3.85
+472,ORD-10472,Central,Office Supplies,Seattle,255.3,0.0,20.28
+473,ORD-10473,Central,Technology,Phoenix,55.29,0.1,3.82
+474,ORD-10474,East,Furniture,Chicago,46.46,0.3,0.45
+475,ORD-10475,East,Office Supplies,Denver,91.07,0.4,2.0
+476,ORD-10476,Central,Technology,Seattle,115.89,0.2,16.16
+477,ORD-10477,West,Technology,New York,71.42,0.1,18.86
+478,ORD-10478,West,Office Supplies,Denver,67.35,0.3,6.35
+479,ORD-10479,Central,Office Supplies,Phoenix,77.16,0.1,8.09
+480,ORD-10480,West,Office Supplies,Phoenix,187.15,0.3,25.01
+481,ORD-10481,South,Furniture,Denver,159.16,0.2,10.11
+482,ORD-10482,West,Technology,Houston,153.07,0.0,25.28
+483,ORD-10483,West,Office Supplies,Denver,75.2,0.1,10.84
+484,ORD-10484,South,Office Supplies,New York,83.25,0.0,10.67
+485,ORD-10485,South,Office Supplies,Houston,209.46,0.1,17.51
+486,ORD-10486,West,Technology,Denver,42.09,0.3,9.16
+487,ORD-10487,West,Office Supplies,New York,64.53,0.4,2.57
+488,ORD-10488,West,Office Supplies,Houston,228.84,0.1,35.52
+489,ORD-10489,Central,Furniture,Houston,87.97,0.1,3.45
+490,ORD-10490,West,Office Supplies,Houston,61.99,0.1,4.58
+491,ORD-10491,East,Technology,Los Angeles,55.75,0.0,11.13
+492,ORD-10492,Central,Technology,Phoenix,200.48,0.1,23.06
+493,ORD-10493,East,Furniture,Los Angeles,203.72,0.1,8.47
+494,ORD-10494,West,Furniture,Seattle,102.38,0.1,13.17
+495,ORD-10495,East,Technology,Denver,74.25,0.2,9.71
+496,ORD-10496,Central,Technology,New York,81.84,0.1,10.0
+497,ORD-10497,Central,Office Supplies,Atlanta,164.02,0.3,-3.94
+498,ORD-10498,Central,Office Supplies,Atlanta,109.19,0.0,15.71
+499,ORD-10499,Central,Office Supplies,New York,379.33,0.3,38.75
+500,ORD-10500,East,Office Supplies,New York,98.31,0.2,12.44
+501,ORD-10501,East,Furniture,Seattle,138.48,0.3,-3.19
+502,ORD-10502,East,Furniture,Chicago,45.71,0.2,4.5
+503,ORD-10503,West,Office Supplies,Chicago,50.48,0.0,7.27
+504,ORD-10504,West,Office Supplies,Chicago,29.99,0.1,2.61
+505,ORD-10505,West,Technology,Atlanta,171.57,0.3,19.99
+506,ORD-10506,West,Technology,Los Angeles,166.15,0.3,20.81
+507,ORD-10507,East,Office Supplies,Seattle,243.82,0.0,37.37
+508,ORD-10508,South,Technology,Chicago,99.86,0.3,11.27
+509,ORD-10509,East,Technology,Denver,128.01,0.1,23.9
+510,ORD-10510,East,Technology,Houston,88.35,0.0,12.74
+511,ORD-10511,South,Office Supplies,Houston,157.89,0.3,19.77
+512,ORD-10512,West,Technology,Atlanta,164.82,0.2,29.52
+513,ORD-10513,South,Technology,Seattle,344.46,0.0,40.25
+514,ORD-10514,West,Office Supplies,New York,64.45,0.1,9.76
+515,ORD-10515,Central,Furniture,Chicago,62.07,0.1,1.02
+516,ORD-10516,West,Technology,Phoenix,130.04,0.1,22.96
+517,ORD-10517,West,Technology,Seattle,135.13,0.2,21.81
+518,ORD-10518,South,Office Supplies,Los Angeles,240.62,0.1,20.47
+519,ORD-10519,Central,Office Supplies,Phoenix,110.33,0.1,9.79
+520,ORD-10520,Central,Technology,Atlanta,233.27,0.1,25.71
+521,ORD-10521,Central,Office Supplies,Denver,141.92,0.3,4.2
+522,ORD-10522,East,Office Supplies,Los Angeles,305.23,0.1,52.43
+523,ORD-10523,West,Technology,Houston,45.9,0.0,8.79
+524,ORD-10524,East,Office Supplies,Houston,132.75,0.2,19.38
+525,ORD-10525,East,Office Supplies,Phoenix,156.43,0.2,19.61
+526,ORD-10526,East,Office Supplies,Los Angeles,106.84,0.1,15.99
+527,ORD-10527,East,Office Supplies,New York,154.5,0.0,23.09
+528,ORD-10528,Central,Technology,Houston,345.28,0.1,39.9
+529,ORD-10529,West,Office Supplies,Phoenix,110.82,0.0,16.47
+530,ORD-10530,West,Technology,Seattle,468.88,0.3,65.94
+531,ORD-10531,Central,Technology,Atlanta,103.57,0.0,12.66
+532,ORD-10532,South,Furniture,Houston,57.55,0.0,6.15
+533,ORD-10533,West,Technology,Los Angeles,295.85,0.0,58.77
+534,ORD-10534,Central,Technology,Seattle,74.35,0.3,6.43
+535,ORD-10535,Central,Technology,Atlanta,199.99,0.1,27.31
+536,ORD-10536,West,Office Supplies,Los Angeles,30.39,0.0,4.35
+537,ORD-10537,South,Furniture,Houston,80.14,0.1,6.58
+538,ORD-10538,West,Technology,Atlanta,61.84,0.1,8.87
+539,ORD-10539,East,Office Supplies,Houston,100.64,0.1,12.44
+540,ORD-10540,South,Technology,Denver,104.42,0.2,11.79
+541,ORD-10541,West,Technology,Chicago,93.89,0.0,14.09
+542,ORD-10542,West,Technology,Seattle,371.71,0.0,90.31
+543,ORD-10543,East,Furniture,New York,213.67,0.4,-0.95
+544,ORD-10544,South,Furniture,Chicago,40.56,0.0,3.98
+545,ORD-10545,West,Furniture,New York,32.1,0.1,3.4
+546,ORD-10546,East,Technology,Atlanta,184.65,0.4,21.69
+547,ORD-10547,West,Technology,Chicago,221.6,0.3,5.17
+548,ORD-10548,West,Office Supplies,Denver,133.44,0.3,9.83
+549,ORD-10549,East,Office Supplies,Houston,66.8,0.1,10.68
+550,ORD-10550,Central,Office Supplies,Phoenix,149.37,0.2,15.4
+551,ORD-10551,West,Technology,Phoenix,157.17,0.2,15.05
+552,ORD-10552,East,Office Supplies,Houston,79.82,0.2,5.38
+553,ORD-10553,West,Office Supplies,Denver,162.47,0.2,19.89
+554,ORD-10554,South,Furniture,Chicago,146.33,0.0,9.37
+555,ORD-10555,Central,Office Supplies,Los Angeles,261.95,0.3,3.97
+556,ORD-10556,East,Technology,Phoenix,150.19,0.3,5.24
+557,ORD-10557,East,Technology,Denver,129.0,0.3,17.16
+558,ORD-10558,West,Furniture,New York,35.12,0.3,0.68
+559,ORD-10559,West,Office Supplies,Houston,65.46,0.0,12.39
+560,ORD-10560,Central,Office Supplies,Phoenix,136.25,0.0,15.95
+561,ORD-10561,East,Furniture,Phoenix,73.49,0.4,0.65
+562,ORD-10562,East,Technology,New York,128.43,0.2,15.63
+563,ORD-10563,Central,Office Supplies,Los Angeles,65.01,0.2,4.74
+564,ORD-10564,East,Furniture,New York,200.6,0.2,10.55
+565,ORD-10565,South,Office Supplies,Los Angeles,85.8,0.1,10.78
+566,ORD-10566,West,Technology,Seattle,93.17,0.1,12.6
+567,ORD-10567,West,Office Supplies,Seattle,229.77,0.4,9.63
+568,ORD-10568,East,Office Supplies,Seattle,70.5,0.4,3.9
+569,ORD-10569,Central,Technology,New York,117.15,0.1,17.88
+570,ORD-10570,South,Technology,New York,104.81,0.2,19.35
+571,ORD-10571,West,Furniture,New York,185.55,0.3,-1.9
+572,ORD-10572,East,Office Supplies,Phoenix,774.6,0.1,87.97
+573,ORD-10573,Central,Office Supplies,Houston,187.35,0.1,18.99
+574,ORD-10574,South,Furniture,Chicago,271.22,0.2,21.84
+575,ORD-10575,East,Office Supplies,Houston,94.87,0.3,7.19
+576,ORD-10576,West,Furniture,Houston,107.86,0.3,9.11
+577,ORD-10577,West,Technology,Denver,252.54,0.2,35.85
+578,ORD-10578,West,Office Supplies,Atlanta,233.44,0.3,29.01
+579,ORD-10579,East,Office Supplies,Denver,134.53,0.3,9.96
+580,ORD-10580,South,Technology,Houston,38.67,0.2,4.5
+581,ORD-10581,West,Furniture,Denver,104.95,0.1,6.03
+582,ORD-10582,Central,Technology,Houston,217.46,0.0,35.89
+583,ORD-10583,Central,Furniture,Seattle,112.4,0.1,3.66
+584,ORD-10584,East,Office Supplies,Atlanta,97.11,0.1,9.99
+585,ORD-10585,Central,Office Supplies,Houston,117.98,0.1,8.95
+586,ORD-10586,Central,Office Supplies,Phoenix,31.6,0.2,3.13
+587,ORD-10587,Central,Office Supplies,New York,79.29,0.1,0.56
+588,ORD-10588,Central,Technology,Phoenix,127.96,0.0,24.83
+589,ORD-10589,East,Office Supplies,Houston,113.59,0.0,5.28
+590,ORD-10590,South,Office Supplies,New York,162.76,0.3,11.18
+591,ORD-10591,East,Office Supplies,Chicago,63.18,0.3,1.68
+592,ORD-10592,Central,Office Supplies,Seattle,52.14,0.3,0.67
+593,ORD-10593,South,Office Supplies,Phoenix,49.03,0.1,4.58
+594,ORD-10594,West,Office Supplies,Phoenix,163.13,0.2,22.18
+595,ORD-10595,Central,Office Supplies,Chicago,157.98,0.0,30.39
+596,ORD-10596,South,Office Supplies,Chicago,33.14,0.4,2.28
+597,ORD-10597,Central,Furniture,Phoenix,45.13,0.2,1.74
+598,ORD-10598,South,Technology,New York,511.33,0.2,65.94
+599,ORD-10599,West,Office Supplies,Seattle,87.83,0.3,10.41
+600,ORD-10600,Central,Office Supplies,Atlanta,202.4,0.3,9.33
+601,ORD-10601,West,Technology,Houston,121.7,0.1,19.54
+602,ORD-10602,Central,Office Supplies,Seattle,26.58,0.2,2.69
+603,ORD-10603,West,Technology,Chicago,92.79,0.1,14.63
+604,ORD-10604,Central,Office Supplies,New York,91.26,0.1,4.93
+605,ORD-10605,South,Office Supplies,Los Angeles,41.76,0.0,2.12
+606,ORD-10606,South,Furniture,Seattle,20.07,0.2,1.0
+607,ORD-10607,West,Office Supplies,Houston,203.6,0.3,15.2
+608,ORD-10608,East,Furniture,Seattle,173.13,0.1,17.42
+609,ORD-10609,East,Technology,Los Angeles,87.1,0.0,15.63
+610,ORD-10610,Central,Technology,Los Angeles,204.55,0.3,18.7
+611,ORD-10611,Central,Technology,New York,53.77,0.3,5.48
+612,ORD-10612,West,Office Supplies,Denver,415.62,0.0,90.3
+613,ORD-10613,East,Furniture,Seattle,153.35,0.3,6.28
+614,ORD-10614,East,Office Supplies,Los Angeles,67.67,0.1,1.71
+615,ORD-10615,West,Office Supplies,Phoenix,254.09,0.3,46.62
+616,ORD-10616,South,Office Supplies,Denver,63.16,0.0,6.82
+617,ORD-10617,East,Technology,Chicago,48.05,0.1,5.69
+618,ORD-10618,West,Office Supplies,Seattle,66.76,0.0,12.35
+619,ORD-10619,West,Technology,Denver,255.43,0.2,41.9
+620,ORD-10620,West,Technology,Denver,114.78,0.3,13.76
+621,ORD-10621,South,Office Supplies,Los Angeles,41.67,0.2,1.58
+622,ORD-10622,East,Office Supplies,Houston,263.06,0.3,3.94
+623,ORD-10623,Central,Technology,Chicago,288.85,0.2,19.07
+624,ORD-10624,East,Office Supplies,Atlanta,33.96,0.2,2.05
+625,ORD-10625,East,Technology,Seattle,121.12,0.0,14.55
+626,ORD-10626,West,Office Supplies,Denver,126.74,0.1,24.7
+627,ORD-10627,West,Office Supplies,Los Angeles,139.75,0.1,28.6
+628,ORD-10628,East,Technology,Atlanta,178.38,0.4,15.39
+629,ORD-10629,South,Furniture,Phoenix,77.79,0.2,5.79
+630,ORD-10630,East,Furniture,Los Angeles,507.27,0.3,27.61
+631,ORD-10631,West,Technology,Atlanta,129.96,0.1,26.52
+632,ORD-10632,West,Technology,Phoenix,208.89,0.0,41.69
+633,ORD-10633,South,Furniture,New York,207.13,0.0,18.63
+634,ORD-10634,East,Office Supplies,Chicago,123.54,0.3,16.46
+635,ORD-10635,Central,Office Supplies,Chicago,86.7,0.2,0.95
+636,ORD-10636,Central,Technology,Houston,180.92,0.4,1.44
+637,ORD-10637,South,Office Supplies,Seattle,261.55,0.0,45.5
+638,ORD-10638,West,Office Supplies,Atlanta,222.11,0.3,32.09
+639,ORD-10639,South,Technology,Houston,165.25,0.3,9.77
+640,ORD-10640,Central,Office Supplies,Seattle,78.43,0.1,6.11
+641,ORD-10641,East,Office Supplies,Chicago,282.01,0.0,48.97
+642,ORD-10642,Central,Office Supplies,Atlanta,124.36,0.3,-3.78
+643,ORD-10643,West,Office Supplies,Atlanta,390.23,0.3,15.05
+644,ORD-10644,Central,Office Supplies,Chicago,65.26,0.1,3.24
+645,ORD-10645,South,Furniture,Los Angeles,190.23,0.2,11.38
+646,ORD-10646,South,Office Supplies,New York,102.24,0.2,8.88
+647,ORD-10647,West,Furniture,New York,396.11,0.3,9.63
+648,ORD-10648,South,Furniture,Phoenix,69.87,0.1,3.49
+649,ORD-10649,East,Furniture,Seattle,477.72,0.2,10.39
+650,ORD-10650,East,Technology,Atlanta,57.49,0.0,8.79
+651,ORD-10651,East,Office Supplies,Los Angeles,66.26,0.0,8.53
+652,ORD-10652,East,Technology,Los Angeles,146.88,0.1,18.9
+653,ORD-10653,East,Furniture,Atlanta,121.49,0.0,23.02
+654,ORD-10654,East,Office Supplies,Houston,106.48,0.3,8.46
+655,ORD-10655,East,Office Supplies,Los Angeles,261.58,0.1,34.97
+656,ORD-10656,South,Furniture,Houston,114.84,0.0,10.78
+657,ORD-10657,West,Furniture,Houston,66.59,0.0,11.68
+658,ORD-10658,Central,Office Supplies,Atlanta,156.44,0.0,15.97
+659,ORD-10659,East,Technology,Denver,103.83,0.2,9.55
+660,ORD-10660,East,Technology,New York,370.39,0.3,46.4
+661,ORD-10661,West,Technology,Phoenix,135.94,0.2,28.14
+662,ORD-10662,West,Furniture,Atlanta,40.21,0.2,4.24
+663,ORD-10663,South,Office Supplies,Seattle,85.29,0.1,10.97
+664,ORD-10664,South,Office Supplies,Los Angeles,206.39,0.4,11.96
+665,ORD-10665,West,Office Supplies,New York,164.35,0.1,27.57
+666,ORD-10666,West,Office Supplies,Houston,99.26,0.2,15.57
+667,ORD-10667,East,Office Supplies,Atlanta,119.34,0.2,9.73
+668,ORD-10668,West,Technology,Houston,128.76,0.2,17.56
+669,ORD-10669,Central,Furniture,Denver,135.96,0.2,0.64
+670,ORD-10670,East,Technology,Seattle,171.77,0.0,28.81
+671,ORD-10671,Central,Office Supplies,New York,150.47,0.4,4.26
+672,ORD-10672,West,Technology,Houston,103.26,0.2,23.24
+673,ORD-10673,West,Office Supplies,Chicago,360.59,0.0,36.71
+674,ORD-10674,East,Technology,Los Angeles,161.93,0.0,25.4
+675,ORD-10675,West,Furniture,New York,69.43,0.0,6.49
+676,ORD-10676,East,Office Supplies,Atlanta,61.33,0.0,6.78
+677,ORD-10677,South,Furniture,Chicago,40.66,0.3,2.32
+678,ORD-10678,Central,Furniture,Los Angeles,106.22,0.3,-1.1
+679,ORD-10679,West,Technology,Los Angeles,134.23,0.1,22.66
+680,ORD-10680,East,Furniture,Los Angeles,190.57,0.2,14.04
+681,ORD-10681,East,Furniture,Los Angeles,193.18,0.2,7.87
+682,ORD-10682,South,Technology,Atlanta,30.26,0.0,5.51
+683,ORD-10683,West,Office Supplies,Atlanta,103.86,0.2,13.85
+684,ORD-10684,West,Office Supplies,Atlanta,36.57,0.3,5.08
+685,ORD-10685,South,Furniture,Los Angeles,85.72,0.1,7.07
+686,ORD-10686,South,Office Supplies,Houston,50.08,0.1,4.64
+687,ORD-10687,South,Technology,Atlanta,75.17,0.0,9.89
+688,ORD-10688,South,Furniture,New York,115.19,0.1,13.85
+689,ORD-10689,Central,Office Supplies,Seattle,137.64,0.3,4.6
+690,ORD-10690,South,Office Supplies,Los Angeles,139.11,0.4,1.7
+691,ORD-10691,West,Office Supplies,Denver,216.21,0.1,34.25
+692,ORD-10692,West,Technology,Phoenix,141.2,0.1,20.56
+693,ORD-10693,East,Office Supplies,Chicago,33.71,0.0,4.11
+694,ORD-10694,Central,Office Supplies,Houston,120.83,0.4,3.22
+695,ORD-10695,East,Technology,Seattle,42.96,0.3,4.3
+696,ORD-10696,West,Office Supplies,Los Angeles,100.52,0.1,17.9
+697,ORD-10697,West,Furniture,Atlanta,235.48,0.4,18.13
+698,ORD-10698,Central,Office Supplies,Chicago,87.77,0.0,8.71
+699,ORD-10699,Central,Technology,Los Angeles,31.3,0.0,3.54
+700,ORD-10700,Central,Office Supplies,Denver,325.09,0.2,27.39
+701,ORD-10701,West,Technology,New York,42.13,0.2,7.13
+702,ORD-10702,West,Office Supplies,Chicago,233.16,0.1,21.3
+703,ORD-10703,East,Office Supplies,Atlanta,85.52,0.0,12.54
+704,ORD-10704,East,Technology,Los Angeles,83.55,0.1,13.31
+705,ORD-10705,East,Furniture,Denver,182.04,0.0,23.44
+706,ORD-10706,South,Office Supplies,Seattle,128.11,0.2,5.79
+707,ORD-10707,South,Technology,New York,200.98,0.0,25.94
+708,ORD-10708,South,Office Supplies,New York,276.41,0.2,11.94
+709,ORD-10709,Central,Furniture,Phoenix,92.09,0.3,-4.38
+710,ORD-10710,East,Office Supplies,Chicago,210.5,0.2,17.95
+711,ORD-10711,Central,Office Supplies,New York,103.02,0.0,6.68
+712,ORD-10712,Central,Office Supplies,Denver,87.52,0.1,6.3
+713,ORD-10713,East,Office Supplies,Seattle,274.93,0.0,39.88
+714,ORD-10714,West,Office Supplies,Chicago,263.42,0.0,26.84
+715,ORD-10715,West,Technology,Chicago,43.08,0.2,7.0
+716,ORD-10716,West,Technology,Houston,78.3,0.1,12.87
+717,ORD-10717,East,Technology,Chicago,48.6,0.3,5.81
+718,ORD-10718,East,Office Supplies,Houston,221.6,0.0,38.06
+719,ORD-10719,West,Technology,Seattle,84.32,0.0,13.79
+720,ORD-10720,South,Office Supplies,New York,34.96,0.0,5.87
+721,ORD-10721,Central,Technology,Atlanta,40.32,0.0,7.8
+722,ORD-10722,East,Office Supplies,Denver,192.66,0.0,24.21
+723,ORD-10723,South,Office Supplies,Phoenix,36.26,0.2,2.61
+724,ORD-10724,East,Office Supplies,Seattle,37.66,0.2,6.41
+725,ORD-10725,South,Furniture,Denver,55.51,0.0,6.59
+726,ORD-10726,East,Technology,Denver,130.82,0.0,31.11
+727,ORD-10727,South,Furniture,Seattle,196.89,0.0,17.47
+728,ORD-10728,East,Office Supplies,Atlanta,144.35,0.1,15.12
+729,ORD-10729,Central,Technology,Phoenix,114.03,0.2,7.69
+730,ORD-10730,East,Office Supplies,Denver,116.83,0.2,15.68
+731,ORD-10731,Central,Furniture,Seattle,119.4,0.0,8.79
+732,ORD-10732,West,Office Supplies,Atlanta,86.59,0.2,7.6
+733,ORD-10733,South,Technology,Los Angeles,139.85,0.1,22.69
+734,ORD-10734,West,Technology,Los Angeles,121.43,0.3,14.68
+735,ORD-10735,West,Technology,Chicago,116.06,0.1,24.65
+736,ORD-10736,West,Office Supplies,New York,94.64,0.1,12.49
+737,ORD-10737,East,Furniture,Phoenix,120.56,0.0,18.36
+738,ORD-10738,East,Furniture,New York,214.57,0.3,18.25
+739,ORD-10739,South,Technology,Denver,72.7,0.2,8.35
+740,ORD-10740,Central,Office Supplies,Houston,43.92,0.0,3.08
+741,ORD-10741,West,Office Supplies,Atlanta,169.24,0.4,9.93
+742,ORD-10742,Central,Office Supplies,Seattle,281.8,0.0,36.32
+743,ORD-10743,West,Technology,Chicago,66.93,0.3,8.68
+744,ORD-10744,West,Office Supplies,New York,189.43,0.1,23.1
+745,ORD-10745,Central,Technology,Atlanta,265.26,0.1,29.94
+746,ORD-10746,South,Technology,Denver,75.39,0.3,7.45
+747,ORD-10747,West,Furniture,Phoenix,60.71,0.1,8.23
+748,ORD-10748,South,Office Supplies,Denver,165.13,0.3,16.77
+749,ORD-10749,South,Furniture,Chicago,56.83,0.2,2.52
+750,ORD-10750,West,Furniture,New York,123.0,0.4,6.09
+751,ORD-10751,West,Furniture,Seattle,163.92,0.3,5.67
+752,ORD-10752,East,Office Supplies,New York,167.35,0.1,10.83
+753,ORD-10753,East,Technology,Phoenix,62.4,0.0,11.42
+754,ORD-10754,South,Office Supplies,Houston,69.58,0.0,10.83
+755,ORD-10755,South,Office Supplies,Phoenix,78.45,0.2,10.49
+756,ORD-10756,Central,Furniture,Chicago,229.2,0.2,14.62
+757,ORD-10757,East,Office Supplies,Chicago,82.12,0.3,5.46
+758,ORD-10758,West,Technology,New York,234.1,0.0,49.69
+759,ORD-10759,East,Technology,New York,80.95,0.1,10.86
+760,ORD-10760,West,Office Supplies,Denver,99.88,0.1,17.5
+761,ORD-10761,Central,Office Supplies,Seattle,108.41,0.0,6.6
+762,ORD-10762,East,Technology,Atlanta,70.42,0.2,9.38
+763,ORD-10763,Central,Technology,Houston,170.2,0.2,16.41
+764,ORD-10764,West,Technology,Los Angeles,52.42,0.4,5.86
+765,ORD-10765,East,Office Supplies,Atlanta,120.34,0.2,10.94
+766,ORD-10766,Central,Furniture,New York,83.96,0.3,-0.99
+767,ORD-10767,South,Technology,New York,67.68,0.2,8.09
+768,ORD-10768,West,Office Supplies,Denver,204.82,0.0,18.13
+769,ORD-10769,West,Office Supplies,Chicago,107.87,0.0,17.61
+770,ORD-10770,West,Furniture,Phoenix,220.65,0.1,31.97
+771,ORD-10771,West,Furniture,Denver,86.56,0.1,6.38
+772,ORD-10772,Central,Technology,Seattle,86.55,0.1,15.27
+773,ORD-10773,West,Technology,Atlanta,105.88,0.2,19.35
+774,ORD-10774,West,Office Supplies,New York,67.47,0.1,9.33
+775,ORD-10775,East,Furniture,Los Angeles,65.54,0.2,5.03
+776,ORD-10776,South,Office Supplies,Chicago,161.44,0.0,24.63
+777,ORD-10777,Central,Technology,Houston,116.87,0.1,9.17
+778,ORD-10778,East,Office Supplies,New York,112.6,0.2,5.3
+779,ORD-10779,East,Office Supplies,Phoenix,107.15,0.2,18.21
+780,ORD-10780,West,Furniture,Los Angeles,111.23,0.3,6.35
+781,ORD-10781,Central,Office Supplies,Los Angeles,233.51,0.1,1.23
+782,ORD-10782,West,Technology,Houston,138.71,0.1,28.22
+783,ORD-10783,Central,Office Supplies,Denver,86.52,0.2,6.74
+784,ORD-10784,West,Technology,Phoenix,101.37,0.2,18.98
+785,ORD-10785,West,Furniture,Los Angeles,34.83,0.0,3.96
+786,ORD-10786,West,Furniture,New York,162.79,0.3,14.37
+787,ORD-10787,Central,Furniture,New York,199.31,0.2,2.76
+788,ORD-10788,West,Office Supplies,Atlanta,82.94,0.0,11.69
+789,ORD-10789,Central,Technology,Seattle,58.82,0.0,5.55
+790,ORD-10790,Central,Office Supplies,Houston,40.31,0.1,6.51
+791,ORD-10791,Central,Office Supplies,Seattle,409.02,0.0,60.29
+792,ORD-10792,West,Furniture,Denver,40.41,0.2,2.58
+793,ORD-10793,West,Furniture,Denver,113.39,0.2,11.75
+794,ORD-10794,South,Technology,Houston,65.22,0.1,10.42
+795,ORD-10795,East,Technology,Atlanta,155.4,0.1,21.28
+796,ORD-10796,East,Technology,New York,70.66,0.1,11.86
+797,ORD-10797,West,Technology,New York,176.76,0.2,18.01
+798,ORD-10798,East,Furniture,Phoenix,38.84,0.2,-0.25
+799,ORD-10799,West,Office Supplies,Chicago,106.83,0.3,5.64
+800,ORD-10800,West,Furniture,Chicago,144.59,0.2,1.04
